@@ -3,6 +3,7 @@ platform :ios, '10.0'
 
 target 'FireBaseSample' do
   pod 'Firebase/Core'
+  pod 'Firebase/Database'
 
   # Pods for FireBaseSample
 
