@@ -60,7 +60,7 @@
 		EA251CED1F36E46500EEDFE5 /* FireBaseSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FireBaseSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA251CF11F36E46500EEDFE5 /* FireBaseSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FireBaseSampleUITests.swift; sourceTree = "<group>"; };
 		EA251CF31F36E46500EEDFE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EA251CFF1F36E49700EEDFE5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		EA251CFF1F36E49700EEDFE5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		ED50812F893CE523B8FBA5E0 /* Pods_FireBaseSampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FireBaseSampleUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6543419A9362F4C13BD6014 /* Pods-FireBaseSampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FireBaseSampleTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FireBaseSampleTests/Pods-FireBaseSampleTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -731,6 +731,7 @@
 				EA251CF81F36E46500EEDFE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA251CF91F36E46500EEDFE5 /* Build configuration list for PBXNativeTarget "FireBaseSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -739,6 +740,7 @@
 				EA251CFB1F36E46500EEDFE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA251CFC1F36E46500EEDFE5 /* Build configuration list for PBXNativeTarget "FireBaseSampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -747,6 +749,7 @@
 				EA251CFE1F36E46500EEDFE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
