@@ -11,11 +11,13 @@ target 'FireBaseSample' do
   target 'FireBaseSampleTests' do
     inherit! :search_paths
     # Pods for testing
+    pod 'Firebase'
   end
 
   target 'FireBaseSampleUITests' do
     inherit! :search_paths
     # Pods for testing
+    pod 'Firebase'
   end
 
 end
